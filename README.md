@@ -1,5 +1,8 @@
 # 💫 About Me:
-🙆‍♂️ A Developer Who Thrives on Challenges and Growth Through Consistency<br><br>🎓 Currently a Master’s student in Computer Science at Virginia Tech, with a focus on AI, ML, and DL<br>🍏 iOS app developer and project manager, collaborating with designers and planners on various projects<br>🦺 Civil Engineer for an airport construction project, managed field operations, quality control, and safety using data-driven approaches
+# 🙆‍♂️ A Developer Who Thrives on Challenges and Growth Through Consistency<br><br>
+# 🎓 Currently a Master’s student in Computer Science at Virginia Tech, with a focus on AI, ML, and DL<br>
+# 🍏 iOS app developer and project manager, collaborating with designers and planners on various projects<br>
+# 🦺 Civil Engineer for an airport construction project, managed field operations, quality control, and safety using data-driven approaches
 
 
 ## 🌐 Socials:
