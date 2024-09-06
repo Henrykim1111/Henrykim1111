@@ -1,4 +1,4 @@
-# 💁‍♂️ Hyungmin Kim
+# 🙆‍♂️ Hyungmin Kim
 ### 💻 A Developer Who Thrives on Challenges and Growth Through Consistency<br><br>
 #### 🎓 Currently a Master’s student in Computer Science at Virginia Tech, with a focus on AI, ML, and DL<br>
 #### 🍏 iOS app developer and project manager, collaborating with designers and planners on various projects<br>
